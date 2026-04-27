@@ -19,5 +19,5 @@ I enjoy designing and developing software that is efficient, user-friendly, and 
 
 | Project | Description |
 |--------------|-------------|
-| [Animal Cafe](https://github.com/mishalsidd/Animal-Cafe)  | Fun Python memorization game for animal lovers (Competition Winner! 🏆) |
-| [LoopedIn](https://github.com/safiyyah976/sparkhacks2026)  | Find clubs @ UIC to get involved with and discover vendors to collab with |
+| [Animal Cafe](https://github.com/mishalsidd/Animal-Cafe)  | Fun Python memorization game for animal lovers! (Competition Winner! 🏆) |
+| [LoopedIn](https://github.com/safiyyah976/sparkhacks2026)  | Find clubs @ UIC to get involved with and discover vendors to collab with. |
