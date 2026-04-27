@@ -17,5 +17,5 @@ I enjoy designing and developing software that is efficient, user-friendly, and 
 
 | Project Name | Description |
 |--------------|-------------|
-| Animal Cafe  | Fun Python Game for animal lovers (🏆 Competition Winner!) |
+| Animal Cafe  | Fun Python Game for animal lovers (Competition Winner! 🏆) |
 | LoopedIn  | Find clubs @ UIC to get involved with and discover vendors to collab with |
