@@ -19,6 +19,3 @@ I enjoy designing and developing software that is efficient, user-friendly, and 
 |--------------|-------------|------|
 | Animal Cafe  | Fun Python Game for animal lovers | [GitHub](https://github.com/mishalsidd/Animal-Cafe) |
 | LoopedIn  | Find clubs @ UIC to get involved with and discover vendors to collab with | [Github](https://github.com/safiyyah976/sparkhacks2026) |
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishalsidd&layout=compact&theme=tokyonight)
