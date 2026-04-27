@@ -13,9 +13,11 @@ I enjoy designing and developing software that is efficient, user-friendly, and 
 
 💡 Interests: Software Development, UI/UX, Educational Technology
 
-🚀 Currently: Building a repository for [Animal Cafe](https://github.com/mishalsidd/Animal-Cafe) ✨
+📌 Currently: Building a repository for [Animal Cafe](https://github.com/mishalsidd/Animal-Cafe) ✨
 
-| Project Name | Description |
+## 🚀 Projects
+
+| Project | Description |
 |--------------|-------------|
-| Animal Cafe  | Fun Python memorization game for animal lovers (Competition Winner! 🏆) |
-| LoopedIn  | Find clubs @ UIC to get involved with and discover vendors to collab with |
+| [Animal Cafe](https://github.com/mishalsidd/Animal-Cafe)  | Fun Python memorization game for animal lovers (Competition Winner! 🏆) |
+| [LoopedIn](https://github.com/safiyyah976/sparkhacks2026)  | Find clubs @ UIC to get involved with and discover vendors to collab with |
