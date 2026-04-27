@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Mishal 👋
+🎓 Computer Science student at the University of Illinois Chicago (UIC), minoring in Education
 
-<!--
-**mishalsidd/mishalsidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building technology that solves real-world problems. My journey started in middle school when I created my first HTML website, and since then, I’ve been continuously exploring new languages, frameworks, and tools.
 
-Here are some ideas to get you started:
+Languages: C++, C, Python, Java, JavaScript, Swift, R, HTML/CSS, JSON
+Frameworks/Tools: React, SwiftUI, Git, VS Code, GDB, LLDB, Valgrind, Google Test
+Platforms: Linux/Unix, Windows, macOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing and developing software that is efficient, user-friendly, and impactful. Whether it’s experimenting with new technologies or refining my problem-solving skills, I’m always working on projects that push me to grow.
+
+💡 Interests: Software Development, UI/UX, Educational Technology
+🚀 Currently: Building a repository for Animal Cafe ✨
+
