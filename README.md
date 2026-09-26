@@ -3,7 +3,7 @@
 
 I’m passionate about building technology that solves real-world problems. My journey started in middle school when I created my first HTML website, and since then, I’ve been continuously exploring new languages, frameworks, and tools.
 
-◇ Languages: C++, C, Python, Java, JavaScript, Swift, R, HTML/CSS, JSON
+◇ Languages: C++, C, Python, SQL, F#, Java, JavaScript, Swift, R, HTML/CSS, JSON
 
 ◇ Frameworks/Tools: React, SwiftUI, Git, VS Code, GDB, LLDB, Valgrind, Google Test
 
